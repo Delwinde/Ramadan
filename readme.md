@@ -2,4 +2,4 @@ simple webpage for 2023 Ramadan Countdown
 
 Demo
 
-delwinde.github.io/Ramadan 
+https://delwinde.github.io/Ramadan 
