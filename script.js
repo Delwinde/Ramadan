@@ -3,7 +3,7 @@ const hourEl = document.getElementById('hour');
 const minuteEl = document.getElementById('minute');
 const secondEl = document.getElementById('second');
 
-const Ramadan = new Date('March 23, 2023 00:00:00').getTime();
+const Ramadan = new Date('March 01, 2025 00:00:00').getTime();
 
 updateCountdown()
 
